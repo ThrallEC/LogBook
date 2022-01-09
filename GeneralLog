@@ -1,0 +1,17 @@
+ENTRY <001> : 
+JANUARY 2022 :
+PRODJECT : WINDOWS 10 debloat | Making a custom ISO
+
+Reasouce Docs : 
+    https://fossbytes.com/ultimate-windows-10-bloatware-removal-tool-msmg-toolkit-delete-bloatware-cortana-windows-defender/
+    https://www.youtube.com/watch?v=PYOsevW3KdA&t=2005s
+
+Software using :
+Windows10-1709.iso 
+MSMG ToolKit 12.0 : https://www.majorgeeks.com/files/details/msmg_toolkit.html
+7 zip 
+WinReducer ESD - Wim Converter 2.0.0.0 : https://www.majorgeeks.com/files/details/winreducer_esd_wim_converter.html
+
+Started by extracting the msmg toolkit and ESD - Wim converter packages. I extracted my win iso file.
+I used WinReducer to convert the intall.esd file to install.wim.
+
